@@ -1,0 +1,3 @@
+[submodule "simple-chat-markup"]
+	path = simple-chat-markup
+	url = git@github.com:Nerevarishe/simple-chat-markup.git
